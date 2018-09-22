@@ -1,0 +1,32 @@
+current directory: /home/vicky/Desktop/RobertsLabDson.github.io/vendor/bundle/ruby/2.5.0/gems/json-1.8.1/ext/json/ext/generator
+/usr/bin/ruby2.5 -r ./siteconf20180922-26439-lipxme.rb extconf.rb
+creating Makefile
+
+current directory: /home/vicky/Desktop/RobertsLabDson.github.io/vendor/bundle/ruby/2.5.0/gems/json-1.8.1/ext/json/ext/generator
+make "DESTDIR=" clean
+
+current directory: /home/vicky/Desktop/RobertsLabDson.github.io/vendor/bundle/ruby/2.5.0/gems/json-1.8.1/ext/json/ext/generator
+make "DESTDIR="
+compiling generator.c
+In file included from generator.c:1:0:
+../fbuffer/fbuffer.h: In function ‘fbuffer_to_s’:
+../fbuffer/fbuffer.h:175:47: error: macro "rb_str_new" requires 2 arguments, but only 1 given
+     VALUE result = rb_str_new(FBUFFER_PAIR(fb));
+                                               ^
+../fbuffer/fbuffer.h:175:20: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+     VALUE result = rb_str_new(FBUFFER_PAIR(fb));
+                    ^~~~~~~~~~
+generator.c: In function ‘generate_json’:
+generator.c:840:25: error: ‘rb_cFixnum’ undeclared (first use in this function); did you mean ‘mFixnum’?
+     } else if (klass == rb_cFixnum) {
+                         ^~~~~~~~~~
+                         mFixnum
+generator.c:840:25: note: each undeclared identifier is reported only once for each function it appears in
+generator.c:842:25: error: ‘rb_cBignum’ undeclared (first use in this function); did you mean ‘rb_cFixnum’?
+     } else if (klass == rb_cBignum) {
+                         ^~~~~~~~~~
+                         rb_cFixnum
+Makefile:242: recipe for target 'generator.o' failed
+make: *** [generator.o] Error 1
+
+make failed, exit code 2
