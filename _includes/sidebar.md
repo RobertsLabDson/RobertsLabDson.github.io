@@ -3,11 +3,11 @@ title: Contact
 ---
 
 
-### Contact the Zunder Lab
+### Contact the Roberts Lab
 
-Eli Zunder, Ph.D.
-Assistant Professor
-Department of Biomedical Engineering
-University of Virginia
+Mike Roberts, Ph.D
+Associate Professor
+Biology Department
+Dickinson College
 
-email: eli.zunder (#!) virginia.edu
+email: robertsm(at)dickinson.edu
