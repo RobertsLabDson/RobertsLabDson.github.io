@@ -31,9 +31,10 @@ group: contact
 
 <div class="col-md-4">
 
-Dickinson College<br>
+Rector North 1306<br>
 Department of Biology<br>
-Rector North Room 1304<br>
+Rector Science Complex<br>
+Dickinson College<br>
 301 W Louther St<br>
 Carlisle, PA 17013<br>
 tel: 434 924 164 nine
