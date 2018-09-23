@@ -1,50 +1,25 @@
 ---
-title: Research in the Zunder Lab
+title: Research in the Roberts Lab
 layout: default
 group: research
 ---
 
-## Research in the Zunder lab is focused on discovering the mechanisms that control stem cell fate.
+## Research in the Roberts lab is focused on AML and the Gene Regulatory Network behind the disease.
 
+### Why do we do what we do?
 
-### Our research takes advantage of the close parallels between *in vitro* stem cell differentiation and *in vivo* development. Our *in vitro* experiments can provide insight into stem cell behavior during normal development and disease, and our *in vivo* experiments can provide insight into the derivation of clinically relevant cell types for regenerative therapy.
+Acute Myeloid Leukemia (AML) is the most common form of acute leukemia in adults, and is also seen in children (1). In the United States, AML is the leading cause of death from leukemia, with over 20,000 new diagnoses and 10,000 deaths annually (2). Like most cancers of a particular tissue type, there are multiple subtypes of AML defined by cytological, genetic and clinical criteria. All AML subtypes have a limited number of recurrent oncogenic driver mutations, but no one driver mutation is shared by all AMLs, in fact the most common recurrent gene mutation, NPM1, is observed in only a third of AML patients (3). The focus of our lab is not on these well-defined oncogenic driver mutations, but rather on the transcriptomes they produce. If an AML cell harbors 10 oncogenic gene mutations, this means that the remaining ~20,000 genes are normal. So why is a leukemia cell so different from the normal hematopoietic progenitor from which it was derived? The answer is in the types, forms, amounts, and locations of proteins and regulatory RNAs produced, directed by the transcriptome. Indeed, AML subtypes can be defined by gene expression signatures of normal genes that are differentially expressed in the cancer cells (4). We seek to understand which genes most impact the complex cancer phenotype and are predictive of clinical outcome. By identifying these key genes, we hope to define novel therapeutic targets for directed drug intervention.
 
+### Our Model Ssystem: The Phorbol Ester Response Of AML Cell Lines
 
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/In Vivo In Vitro Parallels.png" alt="In Vivo/In Vitro Parallels">
+Several AML cell lines have been established, which show the capacity to undergo myeloid differentiation in response to chemical inducers that activate signaling pathways leading to changes in the transcriptome (5). Phorbol esters irreversibly activate PKC in AML cell lines like HL-60, enabling signaling systems that genetically reprogram the cells to undergo cell cycle arrest, macrophage-like differentiation, and apoptosis (6). We have determined changes in gene expression at the transcriptional level in HL-60 cells treated with PMA for various times (0.5, 1, 3, 6, 12, 24 hours) by DNA microarray analysis (7). These studies have identified ~1,250 genes that are significantly (>2-fold) up- or down-regulated at two or more time points. The ability to provoke cell cycle arrest, differentiation and apoptosis by altering the transcriptome, suggests that gene expression reprogramming can override oncogenic mutations in clinically relevant ways. We hope to understand the key genes and mechanisms involved in the reversion of acute myeloid leukemia cells into cells that have regained the capacities for proliferative control, myeloid differentiation, and apoptosis.
 
+To this end, we are exploring the function of specific PMA-responsive genes in HL-60 cells by individually over-expressing or knocking down the expression of genes hypothesized to contribute to the phenotypic changes of interest through transfection experiments. Our focus in understanding PMA-induced reprogramming is on those genes encoding transcription factors (TFs), with the rationale that the differential expression of a few TF genes could be driving the expression changes of many/most of the genes of the PMA response. Perhaps, changing the expression of key TF genes results in the up- or down-regulation of genes that affect cell cycle arrest, and/or macrophage differentiation, and/or apoptosis. The transfection experiments in progress involve confirmation of over-expression or knockdown by RT-qPCR (for RNA level changes) and Western blotting (for protein level changes).
 
-<br><br>
+### Predicting/Validating Target Gene Expression In TF Gene Transfection Experiments
 
-### The central aim of our research is to discover the molecular mechanisms that control stem cell behavior. Specifically, we are working to identify factors that control the progression and branch points of stem cell differentiation.
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
+### Clinical Correlations: Mining Aml Patient RNA-seq Data
 
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Progression and Branch Points.png" alt="Progression and Branch Points">
-
-
-<br><br>
-
-### In order to study the complex mixtures of rapidly changing cell types that occur during *in vitro* and *in vivo* differentiation, we use single-cell analysis methods such as mass cytometry, which provides a detailed molecular picture of each cell with a throughput of one million cells per hour.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/CyTOF Overview Diagram.png" alt="CyTOF Overview">
-
-
-<br><br>
-
-### Each single-cell measurement represents a molecular "snapshot" in time. We seek to connect these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into our analysis.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Layout.gif" alt="Force-directed Layout">
-
-
-<br><br>
-
-### Using these experimental and computational tools, our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Regenerative Medicine Overview.png" alt="Regenerative Medicine Overview">
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."

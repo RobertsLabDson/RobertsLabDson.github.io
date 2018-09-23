@@ -1,9 +1,9 @@
 ---
-title: Corey Joins the Lab!
-author: Eli Zunder
+title: Mike of Faculty Focus!
+author: Ashir Borah
 layout: post
 group: news
 ---
- <img src="/static/img/news/Corey_Joins.jpg" alt="Corey Joins!" class="img-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQwQxMOvSeQ?start=22" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-After rotating in November and December last year, Corey Williams has decided to join the lab!  Welcome Corey!
+Prof Roberts on why he teaches and about his research.

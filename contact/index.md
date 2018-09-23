@@ -37,7 +37,7 @@ Rector Science Complex<br>
 Dickinson College<br>
 301 W Louther St<br>
 Carlisle, PA 17013<br>
-tel: 434 924 164 nine
+tel: 717 245 120 one
 
 </div>
 

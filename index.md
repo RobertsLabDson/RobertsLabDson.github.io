@@ -4,4 +4,4 @@ layout: home
 group: home
 ---
 
-Research in our laboratory is focused on understanding which genes most impact the complex cancer phenotype and are predictive of clinical outcome. By identifying these key genes, we hope to define novel therapeutic targets for directed drug intervention..
+Research in our laboratory is focused on Acute Myeloid Leukemia (AML). We are woring to understand which genes most impact the complex cancer phenotype and are predictive of clinical outcome. By identifying these key genes, we hope to define novel therapeutic targets for directed drug intervention. 
