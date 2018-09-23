@@ -42,17 +42,17 @@ body {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #f6f6f6;
-  background-color: #002654;
+  background-color: #000000;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
   color: #f6f6f6;
-  background-color: #002654;
+  background-color: #000000;
 }
 .navbar-default .navbar-toggle {
-  border-color: #002654;
+  border-color: #000000;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #002654;
+  background-color: #000000;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #f6f6f6;
