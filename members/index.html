@@ -37,7 +37,6 @@ group: members
   <h3>Students Researchers</h3>
 <div id="studentContainer">
 {% for person in site.data.students %}
-<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
     <div class="col-sm-2">
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
         <strong>{{person.name}}</strong> <br>
@@ -60,4 +59,4 @@ group: members
         {% endif %}
     </div>
 {% endfor %}
-<div>
+</div>
