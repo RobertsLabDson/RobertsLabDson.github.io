@@ -40,14 +40,14 @@ QUESTIONS:
 1. Does the expression of PMA responsive genes in HL-60 cells correlate with AML subtypes and/or clinical outcomes?
 2. Does the comparison of the AML cohort expression data with the HL-60 PMA response data identify novel therapeutic targets?
 
-REFERENCES
+### REFERENCES
 
 (1) Dohner, H. et al. (2015). *Acute Myeloid Leukemia*. NEJM 373(12): 1136-52.
 (2) Noone AM, et al. *SEER Cancer Statistics Review*, 1975-2015, National Cancer Institute. Bethesda, MD, https://seer.cancer.gov/csr/1975_2015/, based on November 2017 SEER data submission, posted to the SEER web site, April 2018.
 (3) Yohe, S. (2015). *Molecular Genetic Markers in Acute Myeloid Leukemia*, J. Clin. Med 4: 460-478.
 (4) Bullinger, L., et al. (2004). *Use of Gene-Expression Profiling to Identify Prognostic Subclasses in Adult Acute Myeloid Leukemia*. NEJM 350(16): 1605-16.
-(5) Ramirez, RN, et al. (2017). *Dynamic gene regulatory networks of human myeloid differentiation*. Cell Syst. 4(4): 416-29.
+(5) Ramirez, RN, et al. (2017). *Dynamic gene regulatory networks of human myeloid differentiation*. Cell Syst. 4(4): 416-29.  
 (6) Gobbi, G. et al. (2009). *Phorbol ester–induced PKC down-modulation sensitizes AML cells to TRAIL-induced apoptosis and cell differentiation*.  Blood 113(13): 3080-87.
 (7) Roberts, M., et al. (manuscript in preparation) *Genetic re-programming of the acute myeloid leukemia cell line HL-60 by phorbol esters: regulation of cell proliferation, differentiation, and programmed cell death*.
 (8) Cancer Genome Atlas Research Network, Ley, TJ, et al. (2013). *Genomic and epigenomic landscapes of adult de novo acute myeloid leukemia*. NEJM 369(1): 98-119.
-(9) Anaya, J. (2016). *OncoLnc: linking TCGA survival data to mRNAs, miRNAs, and lncRNAs*. PeerJ Comput. Sci. 2: e67; DOI 10.7717/peerj-cs.67 
+(9) Anaya, J. (2016). *OncoLnc: linking TCGA survival data to mRNAs, miRNAs, and lncRNAs*. PeerJ Comput. Sci. 2: e67; DOI 10.7717/peerj-cs.67
