@@ -47,5 +47,11 @@ group: members
         {% if person.twitter %}
           <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
         {% endif %}
+        {% if person.major %}
+          {{person.major}} <br>
+        {% endif %}
+        {% if person.description %}
+          {{person.description}} <br>
+        {% endif %}
     </div>
 {% endfor %}
