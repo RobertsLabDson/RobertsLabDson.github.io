@@ -2,64 +2,64 @@
   image: /static/img/students/Ashir.jpg
   major: Mathematics and Computer Science
   email: boraha (at) dickinson.edu
-  description: "COmputational Biologist"
+  description: Computational Biologist
 
 - name: Ashley Tucewicz
   image: /static/img/students/Ashley.jpg
   major: Neuroscience, Biochemistry & Molecular Biology
   email:  tucewica (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Kate Mnuskin
   image: /static/img/students/KateM.jpg
   major: Biology
   email: mnuskink (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Kate Levangie
   image: /static/img/students/KateL.jpg
   major: Biochemistry & Molecular Biology
   email: levangim (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Kayla Bendinelli
   image: /static/img/students/Kayla.jpg
   major: Biochemistry & Molecular Biology
   email: bendinek (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Kellyn Madden
   image: /static/img/students/Kellyn.jpg
   major: Biochemistry & Molecular Biology
   email: maddenk (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Kevina Birungi
   image: /static/img/students/Kevina.jpg
   major: Biochemistry & Molecular Biology
   email: birungik (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Lilly Bussema
   image: /static/img/students/Lilly.jpg
   major: Biochemistry & Molecular Biology
   email: bussemal (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Ryan McMahon
   image: /static/img/students/Ryan.jpg
   major: Biochemistry & Molecular Biology
   email: mcmahonr (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Shannon Bonner
   image: /static/img/students/Shannon.jpg
   major: Biochemistry & Molecular Biology
   email: bonners (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
 
 - name: Thai Uyen Dinh
   image: /static/img/students/Uyen.jpg
   major:  Neuroscience, Biochemistry & Molecular Biology
   email:  dinht (at) dickinson.edu
-  description: "Molecular biologist"
+  description: Molecular biologist
