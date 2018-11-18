@@ -37,8 +37,8 @@ group: members
 <h3>Students Researchers</h3>
 <div id="studentContainer">
 {% for person in site.data.students %}
-    <div class="col-sm-3">
-        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}" style="margin: 3em;"><br>
+    <div class="col-sm-2">
+        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}" style="margin-top: 1em;"><br>
         <strong>{{person.name}}</strong> <br>
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
